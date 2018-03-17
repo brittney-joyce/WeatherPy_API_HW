@@ -1,0 +1,12 @@
+api_key = "25bc90a1196e6f153eece0bc0b0fc9eb"
+api_key1= "0177bd367e89bfe962ea18624fe5747c"
+g_api = "AIzaSyC0nfsl8lkwvST8O2i2rIHzNILWbS4LpzE"
+g_api_key= "AIzaSyAoRUuV7fPWA54JsgLRgTQzF-Ic-qNqDb0"
+gkey1 = "AIzaSyBvCYi3zVzAMendNg2b96_zUsh4R2EWKII"
+census_key = "1a50abd9c0dbe2cbc9878cbdee47bc03885ba548"
+weather_api="0177bd367e89bfe962ea18624fe5747c"
+
+consumer_key="QQVviFvPOchUOtOuau1JWnzAZ"
+consumer_secret= "2wEkFefOZkG8sKNfe7JDpkCOvcsYS99dPhq4DfB54C09XQJVgT"
+access_token="23729284-MqQymmZNn04dt8H9y0ZlnpFnuNI9R631mVIJVpi8Y"
+access_secret= "hjk852qGfVOPbyOzOB80bcNvdtYZBXJ0DEOptUwSLSEeQ"
